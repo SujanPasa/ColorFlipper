@@ -1,6 +1,7 @@
 # Color Flipper
 
 <img src="./Output/desktop.png">
+
 <img src="./Output/mobile1.png " width = "30%">
 <img src="./Output/mobile2.png " width = "30%">
 
