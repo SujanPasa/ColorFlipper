@@ -1,8 +1,8 @@
 # Color Flipper
 
-<img src="./Output/desktop.png">
+![Desktop Design](./Output/desktop.png)
 
-<img src="./Output/mobile1.png " width = "30%">
+<img src="./Output/mobile1.png " width = "30%">nbsp;
 <img src="./Output/mobile2.png " width = "30%">
 
 # Technologies used
